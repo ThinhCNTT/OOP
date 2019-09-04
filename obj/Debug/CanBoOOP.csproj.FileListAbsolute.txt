@@ -1,0 +1,14 @@
+E:\Web\ASPMVC\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.csprojAssemblyReference.cache
+E:\Web\ASPMVC\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.csproj.CoreCompileInputs.cache
+E:\Web\ASPMVC\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\bin\Debug\CanBoOOP.exe.config
+E:\Web\ASPMVC\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\bin\Debug\CanBoOOP.exe
+E:\Web\ASPMVC\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\bin\Debug\CanBoOOP.pdb
+E:\Web\ASPMVC\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.exe
+E:\Web\ASPMVC\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.pdb
+H:\WEB\KhoaHocASP\NetCore\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\bin\Debug\CanBoOOP.exe.config
+H:\WEB\KhoaHocASP\NetCore\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\bin\Debug\CanBoOOP.exe
+H:\WEB\KhoaHocASP\NetCore\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\bin\Debug\CanBoOOP.pdb
+H:\WEB\KhoaHocASP\NetCore\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.csprojAssemblyReference.cache
+H:\WEB\KhoaHocASP\NetCore\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.csproj.CoreCompileInputs.cache
+H:\WEB\KhoaHocASP\NetCore\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.exe
+H:\WEB\KhoaHocASP\NetCore\buoi5 OOP\Bai2\CanBoOOP\CanBoOOP\obj\Debug\CanBoOOP.pdb
